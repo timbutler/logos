@@ -2,7 +2,7 @@
 
 The WP Australia logo, and the various associated logos for local meetups.
 
-![WP Australia](australia/wp-australia.png)
+[![WP Australia](australia/wp-australia.png)](australia/)
 
 ![WP Adelaide](adelaide/wp-adelaide.png)
 
