@@ -8,7 +8,7 @@ The WP Australia logo, and the various associated logos for local meetups.
 
 ![WP Brisbane](brisbane/wp-brisbane.png)
 
-![WP Geelong](gold-coast/wp-geelong.png)
+![WP Geelong](geelong/wp-geelong.png)
 
 ![WP Gold Coast](gold-coast/wp-gold-coast.png)
 
