@@ -8,4 +8,6 @@ The WP Australia logo, and the various associated logos for local meetups.
 
 ![WP Melbourne](melbourne/wp-melbourne.png)
 
+![WP Sunshine Coast](sunshine-coast/wp-sunshine-coast.png)
+
 ![WP Sydney](sydney/wp-sydney.png)
